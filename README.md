@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardinmahadi&show_icons=true&locale=en&layout=compact" alt="fardinmahadi" /></p>
 
-<p>&nbsp; <be/>
+<p>&nbsp; <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fardinmahadi&show_icons=true&locale=en" alt="fardinmahadi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinmahadi&" alt="fardinmahadi" /></p>
