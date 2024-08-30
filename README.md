@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mahadi Hasan Fardin</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-<img align="right" alt="on fire" width="200" src="https://i.pinimg.com/originals/31/d3/53/31d3538aed2bdc583bd18b082760300c.gif"/>
+<img align="right" alt="on fire" width="200" src="https://i.pinimg.com/originals/8e/08/b9/8e08b9961b83aa4228c6ede7f4607287.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardinmahadi&label=Profile%20views&color=0e75b6&style=flat" alt="fardinmahadi" /> </p>
 
