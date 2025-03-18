@@ -4,13 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardinmahadi&label=Profile%20views&color=0e75b6&style=flat" alt="fardinmahadi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fardinmahadi" alt="fardinmahadi" /></a> </p>
-
 - 🌱 I’m currently learning **Complete Web Development Course With Programming Hero**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mahadi-hasan-fardin/](https://www.linkedin.com/in/mahadi-hasan-fardin/)
-
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, daisyUI**
 
 - 📫 How to reach me **mahadihasanfardin2015@gmail.com**
 
@@ -19,7 +15,6 @@
 <a href="https://twitter.com/@h73886191_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@h73886191_hasan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahadi-hasan-fardin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahadi-hasan-fardin" height="30" width="40" /></a>
 <a href="https://fb.com/mahadihasanfardin2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahadihasanfardin2" height="30" width="40" /></a>
-<a href="https://dribbble.com/mahadi_hasan_fardin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mahadi_hasan_fardin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
