@@ -16,9 +16,6 @@
 
 > A passionate web developer from Bangladesh
 
-- 🌱 I'm currently learning **Complete Web Development Course With Programming Hero**
-- 👨‍💻 All of my projects are available on [LinkedIn](https://www.linkedin.com/in/mahadi-hasan-fardin/)
-- 📫 Reach me at **mahadihasanfardin2015@gmail.com**
 - 🚀 Always exploring new technologies and developing software solutions
 - ⚡ Fun fact: I love to solve problems with creative solutions
 
