@@ -8,6 +8,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahadi-hasan-fardin)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/mahadihasanfardin2)
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;MERN+Stack+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</div>
+
 ## 💫 About Me
 
 > A passionate web developer from Bangladesh
@@ -15,6 +19,8 @@
 - 🌱 I'm currently learning **Complete Web Development Course With Programming Hero**
 - 👨‍💻 All of my projects are available on [LinkedIn](https://www.linkedin.com/in/mahadi-hasan-fardin/)
 - 📫 Reach me at **mahadihasanfardin2015@gmail.com**
+- 🚀 Always exploring new technologies and developing software solutions
+- ⚡ Fun fact: I love to solve problems with creative solutions
 
 ## 🔧 Technologies & Tools
 
@@ -25,19 +31,44 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<img src="https://github.com/FardinMahadi/FardinMahadi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fardinmahadi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fardinmahadi&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinmahadi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+</div>
+
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fardinmahadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <a href="https://github.com/FardinMahadi">
+    <img src="https://github-profile-trophy.vercel.app/?username=fardinmahadi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fardinmahadi&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</p>
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="mailto:mahadihasanfardin2015@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/mahadi-hasan-fardin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://fb.com/mahadihasanfardin2">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</div>
 
 ---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
 
 ⭐️ From [FardinMahadi](https://github.com/FardinMahadi)
