@@ -1,26 +1,38 @@
-![logo](https://github.com/FardinMahadi/FardinMahadi/blob/main/banner.jpg)
-<h1 align="center">Hi 👋, I'm Mahadi Hasan Fardin</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<!-- Banner Image -->
+![Mahadi Hasan Fardin's Banner](https://github.com/FardinMahadi/FardinMahadi/blob/main/banner.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fardinmahadi&label=Profile%20views&color=0e75b6&style=flat" alt="fardinmahadi" /> </p>
+# Hi there, I'm Mahadi Hasan Fardin 👋
 
-- 🌱 I’m currently learning **Complete Web Development Course With Programming Hero**
+[![Profile Views](https://komarev.com/ghpvc/?username=fardinmahadi&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/FardinMahadi)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@h73886191_hasan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahadi-hasan-fardin)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/mahadihasanfardin2)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mahadi-hasan-fardin/](https://www.linkedin.com/in/mahadi-hasan-fardin/)
+## 💫 About Me
 
-- 📫 How to reach me **mahadihasanfardin2015@gmail.com**
+> A passionate web developer from Bangladesh
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@h73886191_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@h73886191_hasan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahadi-hasan-fardin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahadi-hasan-fardin" height="30" width="40" /></a>
-<a href="https://fb.com/mahadihasanfardin2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahadihasanfardin2" height="30" width="40" /></a>
+- 🌱 I'm currently learning **Complete Web Development Course With Programming Hero**
+- 👨‍💻 All of my projects are available on [LinkedIn](https://www.linkedin.com/in/mahadi-hasan-fardin/)
+- 📫 Reach me at **mahadihasanfardin2015@gmail.com**
+
+## 🔧 Technologies & Tools
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fardinmahadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="blank" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fardinmahadi&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
+
+---
+
+⭐️ From [FardinMahadi](https://github.com/FardinMahadi)
