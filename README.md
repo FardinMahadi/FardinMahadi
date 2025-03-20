@@ -35,21 +35,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fardinmahadi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fardinmahadi&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinmahadi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
-</div>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/FardinMahadi">
-    <img src="https://github-profile-trophy.vercel.app/?username=fardinmahadi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-  </a>
-</p>
-
 ## 📫 Let's Connect
 
 <div align="center">
