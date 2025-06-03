@@ -4,7 +4,6 @@
 # Hi there, I'm Mahadi Hasan Fardin 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=fardinmahadi&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/FardinMahadi)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@h73886191_hasan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahadi-hasan-fardin)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/mahadihasanfardin2)
 
