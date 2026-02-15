@@ -29,7 +29,7 @@
 
 ## ✨ Snapshot
 
-- Lead Frontend Engineer (contract) @ DevGenit – delivered the ACS Youth Summit platform.
+- Frontend Developer (contract) @ DevGenit – delivered the ACS Youth Summit platform.
 - **Architected** a full-stack **Online Quiz Management System** with cross-platform Mobile (Expo) and Web (Next.js) parity.
 - Designing a fully theme-aware developer portfolio with contextual cursor layers.
 - Experimenting with Next.js 16, Tailwind CSS v4, Spring Boot, React Native, and Motion.
