@@ -1,109 +1,116 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/FardinMahadi/FardinMahadi/blob/main/banner.jpg" alt="Mahadi Hasan Fardin's developer portfolio banner" />
+  <img
+    src="https://raw.githubusercontent.com/FardinMahadi/FardinMahadi/main/banner.jpg"
+    alt="Mahadi Hasan Fardin — Full-stack developer banner"
+  />
 </p>
 
-<h1 align="center">👋 Hi, I'm Mahadi Hasan Fardin</h1>
+<h1 align="center">Hi, I'm Mahadi Hasan Fardin</h1>
+
+<p align="center">
+  Full‑stack developer building modern products across <b>Web</b>, <b>API</b>, and <b>Mobile</b>.
+  <br />
+  <sub>Open to: Junior / Intern / Part‑time / Freelance</sub>
+</p>
+
+<!-- Links -->
+<p align="center">
+  <a href="https://fardinmahadi.vercel.app/"><b>Portfolio</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://prosnokorta-beta.vercel.app/"><b>Prosnokorta Live Demo</b></a>
+  &nbsp;•&nbsp;
+  <a href="mailto:mahadihasanfardin2015@gmail.com"><b>Email</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/mahadi-hasan-fardin"><b>LinkedIn</b></a>
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=fardinmahadi&label=Profile%20views&color=0e75b6&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=fardinmahadi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/mahadi-hasan-fardin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://fb.com/mahadihasanfardin2">
-    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white" alt="Facebook" />
+    <img
+      src="https://komarev.com/ghpvc/?username=fardinmahadi&label=Profile%20views&color=0e75b6&style=flat"
+      alt="Profile views"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;MERN+Stack+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=460&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing introduction" aria-hidden="true" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?lines=Junior+Full-Stack+Developer;Next.js+%2B+TypeScript+Frontend;Spring+Boot+REST+API+Backend;React+Native+%2F+Expo+Mobile+Apps&font=Fira%20Code&center=true&width=720&height=45&color=f75c7e&vCenter=true&pause=900&size=18"
+    alt="Typing SVG"
+  />
 </p>
 
-> Full-stack engineer blending playful interactions with production-grade web and mobile experiences.
+---
+
+## Snapshot
+
+- Built **Prosnokorta** — an **Online Quiz Management System** with **Web (Next.js)**, **API (Spring Boot)**, and **Mobile (Expo)** clients.
+- I enjoy building **theme-aware UI**, clean component systems, and dashboards with real product workflows.
+- Comfortable across: **TypeScript + Next.js**, **Java + Spring Boot**, **React Native + Expo**, **MySQL/MongoDB**.
 
 ---
 
-## ✨ Snapshot
+## Featured Work
 
-- Frontend Developer (contract) @ DevGenit – delivered the ACS Youth Summit platform.
-- **Architected** a full-stack **Online Quiz Management System** with cross-platform Mobile (Expo) and Web (Next.js) parity.
-- Designing a fully theme-aware developer portfolio with contextual cursor layers.
-- Experimenting with Next.js 16, Tailwind CSS v4, Spring Boot, React Native, and Motion.
+### Prosnokorta — Online Quiz Management System (Web + API + Mobile)
 
----
+A complete product suite: student quiz flow, admin management, results analytics.
 
-## 🔭 Currently Building
+- 🌐 **Web (Next.js 15 + Tailwind + shadcn/ui)**  
+  Live: https://prosnokorta-beta.vercel.app/  
+  Repo: https://github.com/FardinMahadi/Prosnokorta-Web
 
-- **Lern AI Platform**: AI-powered study assistant (Uni project showcase).
-- **Theme-Aware Quiz Suite**: Evolving the Quiz Management System into a fully themeable SaaS-ready application (coming soon).
-- Polishing the **VS Code–inspired portfolio** with deeper palette presets and animation polish.
+- ⚙️ **API (Java + Spring Boot + JPA + MySQL)**  
+  Repo: https://github.com/FardinMahadi/Prosnokorta-API
 
----
-
-## 🚀 Featured Projects
-
-| 🚀 Project               | 🌐 Live Demo                                                  | 📦 Repo                                                                                        | 💡 Highlight                                                                                    |
-| ------------------------ | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Quiz Management System   | [Deployment Pending]                                          | [GitHub](https://github.com/FardinMahadi/Online-Quiz-Management-System)                        | Full-stack ecosystem (Java/Spring Boot) with automated scoring, timed sessions, and mobile apps.|
-| Lern Beta Platform       | [lern-beta.vercel.app](https://lern-beta.vercel.app/)         | [GitHub](https://github.com/FardinMahadi/Lern-AI-Powered-Study-Assistant-Uni-project-showcase) | AI-powered learning platform landing page tuned for conversion and performance budgets.         |
-| ACS Youth Summit Website | [acsduyouthsummit2025.org](https://acsduyouthsummit2025.org/) | –                                                                                              | Official conference site (DevGenit) with CMS-ready scheduling, accessibility, and SEO upgrades. |
-| Developer Portfolio      | [fardinmahadi.vercel.app](https://fardinmahadi.vercel.app/)   | [GitHub](https://github.com/FardinMahadi/Portfolio)                                            | Theme-aware showcase with project gallery lightbox, blog engine, and contextual cursor effects. |
+- 📱 **Mobile (React Native + Expo + NativeWind)**  
+  Repo: https://github.com/FardinMahadi/Prosnokorta-Mobile
 
 ---
 
-## 🛠️ Tech Stack
+### Fardin Mahadi Studio — Developer Portfolio (Next.js)
+
+A motion-rich, theme-aware portfolio with a VS Code-inspired interface.  
+Live: https://fardinmahadi.vercel.app/  
+Repo: https://github.com/FardinMahadi/Portfolio
+
+---
+
+## Tech Stack
 
 **Frontend & Mobile**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+Next.js • React • TypeScript • Tailwind CSS • shadcn/ui • React Native • Expo
 
-**Backend & Database**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+**Backend & Data**  
+Spring Boot • Java • REST APIs • JPA/Hibernate • MySQL • (also: Node.js, MongoDB)
 
-**Animation & UI**  
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0B1120?style=for-the-badge&logo=radix-ui&logoColor=white)
+**UI / Motion**  
+Framer Motion • GSAP • UX-focused component design
 
 ---
 
-## 🤝 Connect With Me
+## Proof (optional visuals you can add next)
+If you want to make this README more “visual-first”, add:
+- 1–2 screenshots of **Prosnokorta Web**
+- 1 screenshot grid / GIF of **Prosnokorta Mobile**
+- 1 small architecture diagram (Web → API → DB)
 
-<p align="center">
-  <a href="mailto:mahadihasanfardin2015@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mahadi Hasan Fardin" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/mahadi-hasan-fardin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-  &nbsp;
-  <a href="https://fb.com/mahadihasanfardin2">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook profile" />
-  </a>
-</p>
+(If you send me screenshots, I’ll tell you exactly where to place them and how to size them.)
 
 ---
 
-## 🎮 Fun Facts
+## Connect
 
-- 🧠 **Quiz Master**: Building automation for education is my latest passion.
-- 🎧 Prototyping with synthwave or chillstep—helps me maintain that "flow state."
-- 📚 Currently exploring AI-assisted learning journeys for **Lern**.
+- Portfolio: https://fardinmahadi.vercel.app/
+- LinkedIn: https://linkedin.com/in/mahadi-hasan-fardin
+- Email: mailto:mahadihasanfardin2015@gmail.com
+- Facebook: https://fb.com/mahadihasanfardin2
 
 ---
 
-⭐️ Proudly crafted by [@FardinMahadi](https://github.com/FardinMahadi)
+## Fun (small)
+- I like building education-focused products (quizzes, analytics, learning tools).
+- I also practice competitive programming for problem-solving sharpness.
+
+— **@FardinMahadi**
