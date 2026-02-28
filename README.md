@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/FardinMahadi/FardinMahadi/main/banner.jpg"
@@ -9,12 +8,11 @@
 <h1 align="center">Hi, I'm Mahadi Hasan Fardin</h1>
 
 <p align="center">
-  Junior <b>MERN‑focused</b> full‑stack developer building modern web products with clean UI and practical backend APIs.
+  Junior <b>MERN‑focused</b> full‑stack developer building modern web products with clean UI and scalable architectures.
   <br />
   <sub>Open to: Junior / Intern / Part‑time / Freelance</sub>
 </p>
 
-<!-- Quick links -->
 <p align="center">
   <a href="https://fardinmahadi.vercel.app/"><b>Portfolio</b></a>
   &nbsp;•&nbsp;
@@ -43,85 +41,55 @@
 
 ---
 
-## Snapshot
+## ⚡ Quick Bit
 
-- I mainly build with the **MERN stack**: React/Next.js, Node.js/Express, and MongoDB.
-- I like crafting **theme-aware UI**, smooth interactions, and dashboards with real product workflows.
-- I also explore other ecosystems when needed (e.g., Spring Boot / React Native), but my core focus is **MERN**.
+- 🔭 **Building:** [Prosnokorta](https://prosnokorta-beta.vercel.app/), a full-cycle quiz ecosystem with analytics.
+- 🌱 **Learning:** Currently deep-diving into **Spring Boot microservices** and **React Native**.
+- 💬 **Ask me about:** MERN architecture, Framer Motion, and building theme-aware UIs.
+- 🚀 **Goal:** To build education-focused tools that simplify learning for everyone.
 
 ---
 
 ## Featured Work
 
-### Prosnokorta — Online Quiz Management System (Web + API + Mobile)
+### Prosnokorta — Online Quiz Management System
+A complete quiz platform featuring student flows, admin management, and result analytics.
 
-A complete quiz platform with student flows, admin management, and results analytics.
+- 🌐 **Web:** Next.js 15, Tailwind, shadcn/ui ([Repo](https://github.com/FardinMahadi/Prosnokorta-Web))
+- ⚙️ **API:** Java, Spring Boot ([Repo](https://github.com/FardinMahadi/Prosnokorta-API))
+- 📱 **Mobile:** React Native, Expo ([Repo](https://github.com/FardinMahadi/Prosnokorta-Mobile))
 
-- 🌐 **Web (Next.js 15 + Tailwind + shadcn/ui)**  
-  Live: https://prosnokorta-beta.vercel.app/  
-  Repo: https://github.com/FardinMahadi/Prosnokorta-Web
-
-- ⚙️ **API (Java + Spring Boot)**  
-  Repo: https://github.com/FardinMahadi/Prosnokorta-API  
-  <sub>Note: built for a course project; I’m primarily MERN-focused.</sub>
-
-- 📱 **Mobile (React Native + Expo)**  
-  Repo: https://github.com/FardinMahadi/Prosnokorta-Mobile
-
-### Fardin Mahadi Studio — Developer Portfolio (Next.js)
-
-A motion-rich, theme-aware portfolio with a VS Code-inspired interface.  
-Live: https://fardinmahadi.vercel.app/  
-Repo: https://github.com/FardinMahadi/Portfolio
+### Fardin Mahadi Studio — Portfolio
+A motion-rich, VS Code-inspired interface.  
+- 🛠️ **Tech:** Next.js, GSAP, Framer Motion ([Live](https://fardinmahadi.vercel.app/))
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,tailwind,git" alt="Tech icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,tailwind,spring,java,git" alt="Tech icons" />
 </p>
 
-**Core (MERN)**  
-JavaScript/TypeScript • React • Next.js • Node.js • Express • MongoDB
-
-**UI / Motion**  
-Tailwind CSS • shadcn/ui • Framer Motion • GSAP
-
-**Also explored**  
-React Native (Expo) • Java (Spring Boot) — as needed for specific projects
+| Category | Tech |
+| :--- | :--- |
+| **Frontend** | React, Next.js 15, TypeScript, Tailwind, Framer Motion |
+| **Backend** | Node.js, Express, Spring Boot (Java), REST APIs |
+| **Database** | MongoDB, Mongoose, Prisma |
+| **Mobile/Tools** | React Native (Expo), Git, Postman, Vercel |
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=FardinMahadi&show_icons=true&hide_title=true&rank_icon=github&theme=transparent&include_all_commits=true&count_private=true"
-    alt="GitHub stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FardinMahadi&show_icons=true&theme=react&hide_border=true" alt="GitHub stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinMahadi&layout=compact&theme=react&hide_border=true" alt="Top languages" width="300" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinMahadi&layout=compact&theme=transparent&hide_border=true"
-    alt="Top languages"
-  />
+  <img src="https://streak-stats.demolab.com?user=FardinMahadi&theme=react&hide_border=true" alt="GitHub streak" />
 </p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=FardinMahadi&theme=transparent&hide_border=true"
-    alt="GitHub streak"
-  />
-</p>
-
----
-
-## Highlights
-
-- Problem solving & templates: https://github.com/FardinMahadi/Competitive-Programming
-- I like building education-focused products (quizzes, analytics, learning tools).
 
 ---
 
@@ -138,10 +106,6 @@ React Native (Expo) • Java (Spring Boot) — as needed for specific projects
   &nbsp;
   <a href="https://fardinmahadi.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://fb.com/mahadihasanfardin2">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
