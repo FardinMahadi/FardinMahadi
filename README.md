@@ -2,7 +2,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/FardinMahadi/FardinMahadi/main/banner.jpg"
-    alt="Mahadi Hasan Fardin — Full-stack developer banner"
+    alt="Mahadi Hasan Fardin — Full-stack developer banner."
   />
 </p>
 
@@ -14,11 +14,11 @@
   <sub>Open to: Junior / Intern / Part‑time / Freelance</sub>
 </p>
 
-<!-- Links -->
+<!-- Quick links -->
 <p align="center">
   <a href="https://fardinmahadi.vercel.app/"><b>Portfolio</b></a>
   &nbsp;•&nbsp;
-  <a href="https://prosnokorta-beta.vercel.app/"><b>Prosnokorta Live Demo</b></a>
+  <a href="https://prosnokorta-beta.vercel.app/"><b>Prosnokorta Live</b></a>
   &nbsp;•&nbsp;
   <a href="mailto:mahadihasanfardin2015@gmail.com"><b>Email</b></a>
   &nbsp;•&nbsp;
@@ -55,7 +55,7 @@
 
 ### Prosnokorta — Online Quiz Management System (Web + API + Mobile)
 
-A complete product suite: student quiz flow, admin management, results analytics.
+A complete product suite: student quiz flow, admin management, and results analytics.
 
 - 🌐 **Web (Next.js 15 + Tailwind + shadcn/ui)**  
   Live: https://prosnokorta-beta.vercel.app/  
@@ -67,8 +67,6 @@ A complete product suite: student quiz flow, admin management, results analytics
 - 📱 **Mobile (React Native + Expo + NativeWind)**  
   Repo: https://github.com/FardinMahadi/Prosnokorta-Mobile
 
----
-
 ### Fardin Mahadi Studio — Developer Portfolio (Next.js)
 
 A motion-rich, theme-aware portfolio with a VS Code-inspired interface.  
@@ -77,7 +75,47 @@ Repo: https://github.com/FardinMahadi/Portfolio
 
 ---
 
+## Featured Visuals
+
+<!--
+Add these files to your profile repo:
+- /assets/prosnokorta-web.png
+- /assets/prosnokorta-mobile.gif
+- /assets/prosnokorta-architecture.png (optional)
+Then delete this comment block.
+-->
+
+<p align="center">
+  <a href="https://prosnokorta-beta.vercel.app/">
+    <img
+      src="https://raw.githubusercontent.com/FardinMahadi/FardinMahadi/main/assets/prosnokorta-web.png"
+      alt="Prosnokorta Web preview"
+      width="900"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/FardinMahadi/FardinMahadi/main/assets/prosnokorta-mobile.gif"
+    alt="Prosnokorta Mobile demo"
+    width="320"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://raw.githubusercontent.com/FardinMahadi/FardinMahadi/main/assets/prosnokorta-architecture.png"
+    alt="Prosnokorta architecture"
+    width="520"
+  />
+</p>
+
+---
+
 ## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,java,spring,mysql,reactnative,expo" alt="Tech icons" />
+</p>
 
 **Frontend & Mobile**  
 Next.js • React • TypeScript • Tailwind CSS • shadcn/ui • React Native • Expo
@@ -90,27 +128,46 @@ Framer Motion • GSAP • UX-focused component design
 
 ---
 
-## Proof (optional visuals you can add next)
-If you want to make this README more “visual-first”, add:
-- 1–2 screenshots of **Prosnokorta Web**
-- 1 screenshot grid / GIF of **Prosnokorta Mobile**
-- 1 small architecture diagram (Web → API → DB)
+## GitHub Activity
 
-(If you send me screenshots, I’ll tell you exactly where to place them and how to size them.)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=FardinMahadi&show_icons=true&hide_title=true&rank_icon=github&theme=transparent"
+    alt="GitHub stats"
+  />
+</p>
+
+---
+
+## Highlights
+
+- Problem solving & templates: https://github.com/FardinMahadi/Competitive-Programming
+- I like building education-focused products (quizzes, analytics, learning tools).
 
 ---
 
 ## Connect
 
-- Portfolio: https://fardinmahadi.vercel.app/
-- LinkedIn: https://linkedin.com/in/mahadi-hasan-fardin
-- Email: mailto:mahadihasanfardin2015@gmail.com
-- Facebook: https://fb.com/mahadihasanfardin2
+<p align="center">
+  <a href="mailto:mahadihasanfardin2015@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/mahadi-hasan-fardin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://fardinmahadi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://fb.com/mahadihasanfardin2">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
 ---
 
-## Fun (small)
-- I like building education-focused products (quizzes, analytics, learning tools).
-- I also practice competitive programming for problem-solving sharpness.
-
-— **@FardinMahadi**
+<p align="center">
+  — <b>@FardinMahadi</b>
+</p>
