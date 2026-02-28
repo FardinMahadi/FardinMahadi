@@ -83,12 +83,13 @@ A motion-rich, VS Code-inspired interface.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FardinMahadi&show_icons=true&theme=react&hide_border=true" alt="GitHub stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinMahadi&layout=compact&theme=react&hide_border=true" alt="Top languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FardinMahadi&show_icons=true&theme=dark" alt="GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinMahadi&layout=compact&theme=dark" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FardinMahadi&theme=react&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=FardinMahadi&theme=dark" alt="GitHub streak" />
 </p>
 
 ---
