@@ -2,14 +2,14 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/FardinMahadi/FardinMahadi/main/banner.jpg"
-    alt="Mahadi Hasan Fardin — Full-stack developer banner."
+    alt="Mahadi Hasan Fardin — Full-stack developer banner"
   />
 </p>
 
 <h1 align="center">Hi, I'm Mahadi Hasan Fardin</h1>
 
 <p align="center">
-  Full‑stack developer building modern products across <b>Web</b>, <b>API</b>, and <b>Mobile</b>.
+  Junior <b>MERN‑focused</b> full‑stack developer building modern web products with clean UI and practical backend APIs.
   <br />
   <sub>Open to: Junior / Intern / Part‑time / Freelance</sub>
 </p>
@@ -36,7 +36,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?lines=Junior+Full-Stack+Developer;Next.js+%2B+TypeScript+Frontend;Spring+Boot+REST+API+Backend;React+Native+%2F+Expo+Mobile+Apps&font=Fira%20Code&center=true&width=720&height=45&color=f75c7e&vCenter=true&pause=900&size=18"
+    src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;React+%2F+Next.js+%2B+TypeScript;Node.js+%2B+Express+REST+APIs;MongoDB+%2B+Prisma%2FMongoose;Learning+Spring+Boot+and+Mobile+Development&font=Fira%20Code&center=true&width=780&height=45&color=f75c7e&vCenter=true&pause=900&size=18"
     alt="Typing SVG"
   />
 </p>
@@ -45,9 +45,9 @@
 
 ## Snapshot
 
-- Built **Prosnokorta** — an **Online Quiz Management System** with **Web (Next.js)**, **API (Spring Boot)**, and **Mobile (Expo)** clients.
-- I enjoy building **theme-aware UI**, clean component systems, and dashboards with real product workflows.
-- Comfortable across: **TypeScript + Next.js**, **Java + Spring Boot**, **React Native + Expo**, **MySQL/MongoDB**.
+- I mainly build with the **MERN stack**: React/Next.js, Node.js/Express, and MongoDB.
+- I like crafting **theme-aware UI**, smooth interactions, and dashboards with real product workflows.
+- I also explore other ecosystems when needed (e.g., Spring Boot / React Native), but my core focus is **MERN**.
 
 ---
 
@@ -55,16 +55,17 @@
 
 ### Prosnokorta — Online Quiz Management System (Web + API + Mobile)
 
-A complete product suite: student quiz flow, admin management, and results analytics.
+A complete quiz platform with student flows, admin management, and results analytics.
 
 - 🌐 **Web (Next.js 15 + Tailwind + shadcn/ui)**  
   Live: https://prosnokorta-beta.vercel.app/  
   Repo: https://github.com/FardinMahadi/Prosnokorta-Web
 
-- ⚙️ **API (Java + Spring Boot + JPA + MySQL)**  
-  Repo: https://github.com/FardinMahadi/Prosnokorta-API
+- ⚙️ **API (Java + Spring Boot)**  
+  Repo: https://github.com/FardinMahadi/Prosnokorta-API  
+  <sub>Note: built for a course project; I’m primarily MERN-focused.</sub>
 
-- 📱 **Mobile (React Native + Expo + NativeWind)**  
+- 📱 **Mobile (React Native + Expo)**  
   Repo: https://github.com/FardinMahadi/Prosnokorta-Mobile
 
 ### Fardin Mahadi Studio — Developer Portfolio (Next.js)
@@ -75,56 +76,20 @@ Repo: https://github.com/FardinMahadi/Portfolio
 
 ---
 
-## Featured Visuals
-
-<!--
-Add these files to your profile repo:
-- /assets/prosnokorta-web.png
-- /assets/prosnokorta-mobile.gif
-- /assets/prosnokorta-architecture.png (optional)
-Then delete this comment block.
--->
-
-<p align="center">
-  <a href="https://prosnokorta-beta.vercel.app/">
-    <img
-      src="https://raw.githubusercontent.com/FardinMahadi/FardinMahadi/main/assets/prosnokorta-web.png"
-      alt="Prosnokorta Web preview"
-      width="900"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/FardinMahadi/FardinMahadi/main/assets/prosnokorta-mobile.gif"
-    alt="Prosnokorta Mobile demo"
-    width="320"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/FardinMahadi/FardinMahadi/main/assets/prosnokorta-architecture.png"
-    alt="Prosnokorta architecture"
-    width="520"
-  />
-</p>
-
----
-
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,java,spring,mysql,reactnative,expo" alt="Tech icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,tailwind,git" alt="Tech icons" />
 </p>
 
-**Frontend & Mobile**  
-Next.js • React • TypeScript • Tailwind CSS • shadcn/ui • React Native • Expo
-
-**Backend & Data**  
-Spring Boot • Java • REST APIs • JPA/Hibernate • MySQL • (also: Node.js, MongoDB)
+**Core (MERN)**  
+JavaScript/TypeScript • React • Next.js • Node.js • Express • MongoDB
 
 **UI / Motion**  
-Framer Motion • GSAP • UX-focused component design
+Tailwind CSS • shadcn/ui • Framer Motion • GSAP
+
+**Also explored**  
+React Native (Expo) • Java (Spring Boot) — as needed for specific projects
 
 ---
 
@@ -132,8 +97,22 @@ Framer Motion • GSAP • UX-focused component design
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=FardinMahadi&show_icons=true&hide_title=true&rank_icon=github&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=FardinMahadi&show_icons=true&hide_title=true&rank_icon=github&theme=transparent&include_all_commits=true&count_private=true"
     alt="GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinMahadi&layout=compact&theme=transparent&hide_border=true"
+    alt="Top languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=FardinMahadi&theme=transparent&hide_border=true"
+    alt="GitHub streak"
   />
 </p>
 
