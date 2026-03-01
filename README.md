@@ -119,6 +119,17 @@ A motion-rich, VS Code-inspired interface.
 
 ---
 
+## Contributions
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/FardinMahadi/FardinMahadi/main/profile_data/snake2.svg"
+    alt="Contribution snake animation"
+  />
+</p>
+
+---
+
 <h2 align="left">⚡ Activity Graph:</h2>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=FardinMahadi&theme=default" />
