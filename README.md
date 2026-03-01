@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/FardinMahadi/FardinMahadi/main/banner.jpg"
@@ -41,13 +39,6 @@
   />
 </p>
 
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=FardinMahadi&theme=dark_lover" alt="FardinMahadi trophies" />
-  </a>
-</p>
 
 ---
 
@@ -106,21 +97,13 @@ A motion-rich, VS Code-inspired interface.
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinMahadi&layout=compact&theme=dark" alt="Top languages" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=FardinMahadi&show_icons=true&locale=en&theme=dark" alt="GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=FardinMahadi&theme=dark" alt="GitHub streak" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">Statistics</h3>
 
@@ -145,5 +128,3 @@ A motion-rich, VS Code-inspired interface.
 <p align="center">
   — <b>@FardinMahadi</b>
 </p>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
