@@ -79,7 +79,7 @@ A motion-rich, VS Code-inspired interface.
 | **Database** | MongoDB, Mongoose, Prisma |
 | **Mobile/Tools** | React Native (Expo), Git, Postman, Vercel |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Connect
 
@@ -117,7 +117,7 @@ A motion-rich, VS Code-inspired interface.
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 <h2 align="left">⚡ Activity Graph:</h2>
 
