@@ -122,10 +122,7 @@ A motion-rich, VS Code-inspired interface.
 ## Contributions
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/FardinMahadi/FardinMahadi/main/profile_data/snake2.svg"
-    alt="Contribution snake animation"
-  />
+  <img src="https://raw.githubusercontent.com/Anikcb/Anikcb/4a60f4c9266d97748675c08ab12a54bab5dbf688/profile_data/snake2.svg">
 </p>
 
 ---
